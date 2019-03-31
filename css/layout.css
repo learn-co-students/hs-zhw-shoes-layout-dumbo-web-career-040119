@@ -23,5 +23,33 @@
 }
 
 /* Positioning Classes */
+.col-1 {
+  float:left;
+  width: 30%;
+  margin: 10px;
+  padding: 30px;
+}
 
+.col-2 {
+  float:left;
+  width: 62%;
+  padding: 25px;
+  margin-right: 10px;
+}
 
+.col-4 {
+ width: 24%;
+}
+
+h2.milk_text {
+  margin: 10px 15px;
+}
+
+section {
+  overflow:auto;
+  margin-left: 15px;
+}
+
+#archive {
+  margin: 0 10px 10px 10px
+}
